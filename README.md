@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[이력서 확인하기!!](https://drive.google.com/file/d/1qDN2vFyvTkC6vrSpE6VAhU3W1Xufd4Z5/view?usp=drive_link)
+
 <!--
 **jjsskk/jjsskk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
