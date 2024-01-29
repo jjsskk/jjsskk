@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[이력서 확인하기!](https://drive.google.com/file/d/1qDN2vFyvTkC6vrSpE6VAhU3W1Xufd4Z5/view?usp=drive_link)
+[이력서 확인하기!](https://drive.google.com/file/d/14Fch_YW4Ch47JnwZVjZjPfGNvkAO3ful/view?usp=drive_link)
 
 
 ### 🛠 Languages and Tools
@@ -34,6 +34,7 @@
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/DOCKER-F80000?style=flat-square&logo=DOCKER&logoColor=white">
         <img src="https://img.shields.io/badge/CMAKE-FCC624?style=flat-square&logo=cmake&logoColor=white">
+        <img src="https://img.shields.io/badge/GraphQL-6DB33F?style=flat-square&logo=GraphQL&logoColor=white">
         
         
    
