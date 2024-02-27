@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[이력서 확인하기!](https://drive.google.com/file/d/14Fch_YW4Ch47JnwZVjZjPfGNvkAO3ful/view?usp=drive_link)
-
 
 ### 🛠 Languages and Tools
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
