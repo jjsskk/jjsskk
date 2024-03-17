@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 해결할 때까지 파고드는 신입 백엔드 개발자 김하온입니다.
 
 ### 🛠 Languages and Tools
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -34,6 +35,7 @@
         <img src="https://img.shields.io/badge/DOCKER-F80000?style=flat-square&logo=DOCKER&logoColor=white">
         <img src="https://img.shields.io/badge/CMAKE-FCC624?style=flat-square&logo=cmake&logoColor=black">
         <img src="https://img.shields.io/badge/GraphQL-6DB33F?style=flat-square&logo=GraphQL&logoColor=white">
+        <img src="https://img.shields.io/badge/gRPC-232F3E?style=flat-square&logo=gRPC&logoColor=white">
         
         
    
